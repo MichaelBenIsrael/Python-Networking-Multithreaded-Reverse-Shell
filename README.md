@@ -24,11 +24,11 @@ So it acts on behalf of another computer remotely.
 
 The server.py file is ready to run. The pc that would run this file will create a socket that will listen to clients at port 9999.
 When the server is running an interactive prompt would be avaliable, this prompts supports the following commands:
-- list: Prints all the current clients data <br>
-  ![image](https://github.com/MichaelBenIsrael/Python-Networking-Multithreaded-Reverse-Shell/assets/73841983/f8f13b08-372d-4485-a5fb-465d1c440245)
-<br>
-- select: enables to select the client to send commands to<br>
-- ![image](https://github.com/MichaelBenIsrael/Python-Networking-Multithreaded-Reverse-Shell/assets/73841983/88084020-ccfb-4749-95d8-099e0ba5d426)
-
+- list: Prints all the current clients data <br><br>
+![image](https://github.com/MichaelBenIsrael/Python-Networking-Multithreaded-Reverse-Shell/assets/73841983/f8f13b08-372d-4485-a5fb-465d1c440245)
+<br><br>
+- select: enables to select the client to send commands to<br><br>
+![image](https://github.com/MichaelBenIsrael/Python-Networking-Multithreaded-Reverse-Shell/assets/73841983/88084020-ccfb-4749-95d8-099e0ba5d426)
+<br><br>
 Once the client has been selected commands can be sent from the server to execute in the client's computer.
 
