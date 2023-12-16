@@ -32,7 +32,7 @@ When the server is running an interactive prompt would be avaliable, this prompt
 <br><br>
 Once the client has been selected, commands can be sent from the server
 to execute in the client's computer.
-The client can connect to the server by running the client.py from his/her computer.
-The only modification that the client.py file needs is the client current IP address
+The client can connect to the server by running the client.py from his/her computer.<br>
+The only modification that the client.py file needs is the client current IP address<br>
 which can be recieved by typing: "ipconfig" in the command prompt. 
 
