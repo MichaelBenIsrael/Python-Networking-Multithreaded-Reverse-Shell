@@ -18,25 +18,3 @@ So it acts on behalf of another computer remotely.
 ### Project's Architecture
 
 ![image](https://github.com/MichaelBenIsrael/Python-Networking-Reverse-Shell/assets/73841983/c005d619-0a93-420e-a60b-0cc1ae31b732)
-
-
-
-
-### Running
- 
-```
-$ export FLASK_APP=app.py
-$ export FLASK_ENV=development
-$ python -m flask run
-```
-
-
-## Contributing
-
-This API was developed based on:
-
-[Flask documentation](https://flask.palletsprojects.com/)
-
-[REST APIs with Flask and Python](https://www.udemy.com/rest-api-flask-and-python/) 
-
-[The Ultimate Flask Course](https://www.udemy.com/the-ultimate-flask-course) 
