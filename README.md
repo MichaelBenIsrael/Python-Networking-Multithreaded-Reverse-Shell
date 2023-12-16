@@ -30,7 +30,9 @@ When the server is running an interactive prompt would be avaliable, this prompt
 - select: enables to select the client to send commands to<br><br>
 ![image](https://github.com/MichaelBenIsrael/Python-Networking-Multithreaded-Reverse-Shell/assets/73841983/88084020-ccfb-4749-95d8-099e0ba5d426)
 <br><br>
-Once the client has been selected commands can be sent from the server to execute in the client's computer.
+Once the client has been selected, commands can be sent from the server
+to execute in the client's computer.
 The client can connect to the server by running the client.py from his/her computer.
-The only modification that the client.py file needs is the client current IP address which can be recieved by typing: "ipconfig" in the command prompt. 
+The only modification that the client.py file needs is the client current IP address
+which can be recieved by typing: "ipconfig" in the command prompt. 
 
